@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a63b5ec9.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAGnB,KACE,iBACF","sources":["index.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n/* Optional: Add any custom styles below */\nbody {\n  @apply bg-gray-50;\n}"],"names":[],"sourceRoot":""}
